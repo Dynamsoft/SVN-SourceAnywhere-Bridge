@@ -15,7 +15,7 @@ SVNBridge brings some great features to SourceAnywhere.
 - Enables you to commit the files/modifications directly from the Windows Explorer.
 - Wider IDE integration. Supports seamless integration with XCode, Dreamweaver on Mac and other IDEs supported by SVN.
 
-How to use SVNBridge
+How to Use SVNBridge
 --------------------
 Please read [Using SVN with SourceAnywhere][4].
 
