@@ -15,13 +15,13 @@ SVNBridge brings some great features to SourceAnywhere.
 - Enables you to commit the files/modifications directly from the Windows Explorer.
 - Wider IDE integration. Supports seamless integration with XCode, Dreamweaver on Mac and other IDEs supported by SVN.
 
-How to Use SVNBridge
+Blog
 --------------------
-Please read [Using SVN with SourceAnywhere][4].
+[How to use the SVNBridge to get TortoiseSVN working with SourceAnywhere][4].
 
 
 
 [1]:http://www.dynamsoft.com/Products/version-control-source-control-sourceanywhere.aspx
 [2]:http://www.dynamsoft.com/download/Support/SAW/SAWTools/saw_svnbridge.zip
 [3]:https://www.dynamsoft.com/Secure/Register_ClientInfo.aspx?productName=SAWstandalone&from=FromDownload
-[4]:http://kb.dynamsoft.com/questions/750/Using+SVN+with+SourceAnywhere
+[4]:http://www.codepool.biz/version-control/how-to-use-the-svnbridge-to-get-tortoisesvn-working-with-sourceanywhere.html
