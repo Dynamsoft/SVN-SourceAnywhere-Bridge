@@ -2,6 +2,8 @@ SVN SourceAnywhere Bridge
 =========================
 Take advantage of SVNBridge to access [SourceAnywhere][1], a SQL Server-based version control tool, from TortoiseSVN.
 
+![image](http://www.kevingao.net/wp-content/uploads/2013/04/SAWSVN.png)
+
 Introduction
 ------------
 SVNBridge is a tool provided by Dynamsoft. Developed based on the TFS SVNBridge library, SourceAnywhere SVNBridge links SourceAnywhere and SVN, and enables developers to access SourceAnywhere databases from TortoiseSVN.
